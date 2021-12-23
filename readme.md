@@ -3,10 +3,10 @@ Google Clone
 * Es un proyecto de un clone de la pagina de [Google](https://google.com) con html y css normal.
 ## Lenguajes usados:
 
-### `HTML` 
+### `HTML`
 
-Para estructurar el contenido
+* Para estructurar el contenido.
 
 ### `CSS`
 
-Para dar estilos al documento.
+* Para dar estilos a los elementos.
